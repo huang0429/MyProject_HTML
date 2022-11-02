@@ -20,7 +20,7 @@ ul a {
     margin: 0 auto;
     list-style-type: none;
 }
-@media (min-width:100px) {
+@media (min-width:390px) {
     .menu {
         max-width: 900px;
     }
