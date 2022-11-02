@@ -16,19 +16,12 @@ ul a {
    布局樣式
    ===================================*/
 .menu {
-    max-width: 300px;
+    max-width: 700px;
     margin: 0 auto;
     list-style-type: none;
+    font-size: 50px;
 }
-@media (min-width:390px) {
-    .menu {
-        max-width: 700px;
-        font-size: 50px;
-    }
-    h1 {
-        font-size: 80px;
-    }
-}
+
 /* ===================================
    動態效果
    ===================================*/
@@ -94,4 +87,5 @@ ul a {
 
 h1 {
     text-align: center;
+    font-size: 80px;
 }
